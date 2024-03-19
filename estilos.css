@@ -1,0 +1,39 @@
+table,td,tr{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.nom{
+    font-weight: bold;
+}
+
+td{
+    text-align: center;
+}
+
+ul{
+    margin: 0;
+    
+}
+
+.usuario{
+    background-color: rgb(209, 247, 253);
+}
+
+.fondoazul{
+    background-color: rgb(140, 213, 244);
+}
+
+.fondogris{
+    background-color: rgb(180, 203, 245);
+}
+table{
+   margin: 0 auto;
+}
+
+form{
+    margin: 0 auto;
+    width: 600px;
+    text-align: center;
+    background-color:rgb(209, 247, 253);
+}
